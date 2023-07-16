@@ -1,0 +1,108 @@
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\GUI\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\GUI\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\New folder\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\New folder\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\New folder\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\New folder\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\New folder\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\New folder\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\New folder\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\1\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\1\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\1\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\1\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\1\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\1\EG_2020_4131\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\1\EG_2020_4131\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll

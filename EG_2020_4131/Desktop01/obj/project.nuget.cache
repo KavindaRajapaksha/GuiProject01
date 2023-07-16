@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6TbZI4cCjKfOXDUThc0Qy4jUNbSFXIbp6HvKswPy8HiKkqjoLKUIE9Omffy41Wj3x8gjp96m7846ddCALEF+g==",
+  "success": true,
+  "projectFilePath": "D:\\1\\EG_2020_4131\\Desktop01\\Desktop01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kavinda\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
